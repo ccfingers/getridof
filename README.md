@@ -1,5 +1,14 @@
 # Developers_Dateware
 Developer's Dateware Demo
+     We can do date conversions on the fly... 
+
+  Developer's Dateware Demo consists of Four(4) files:
+     1) DevDateWare.Dll
+     2) Setup.Exe 
+     3) autorun.inf
+     4) Developer's Dateware.application
+     
+    So copy them down and run the 'setup.exe' file.
 
 The Developer's Dateware source code is proprietary and kepted. 
 
