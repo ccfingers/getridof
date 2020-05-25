@@ -34,6 +34,8 @@ This software will Date Conversions on the fly. Changing one date format to anot
 
 8th) Within the Demo, study it, play with it, and etc...
 
+An email contact point is located/contained with the demo program. 
+
 The software supports 6 delimitors...
    1) No delimitor, 2) the dash, 3) the colon, 4) the slash, 5) the period, and 6) the backslash.  
 
@@ -102,4 +104,3 @@ Here are of the (144)date formats that the software supports......
      141) mmmDDCCYY          142) mmmDDYY               143) mmmDYY           144) mmmDCCYY                        
                                                                                                      
 ===================================
-An email contact point is located/contained with the demo program. 
