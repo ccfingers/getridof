@@ -1,7 +1,7 @@
 # Developers_Dateware
 Developer's Dateware Demo
 
-The Develooper's Dateware source code is proprietary and kepted. 
+The Developer's Dateware source code is proprietary and kepted. 
 
 
 1st) You need the window's "c:\users\usrname\......." setup directory structure. Like windows 7 and windows 10 has. 
