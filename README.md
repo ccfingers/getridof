@@ -16,11 +16,11 @@ The Developer's Dateware source code is proprietary and kepted.
 This software will Date Conversions on the fly. Changing one date format to another date format.
      To change a date format to another, the date formats must be supported by this software. 
 
-1st) You need the window's "c:\users\usrname\......." setup directory structure. Like windows 7 and windows 10 has. 
+1st) You need the window's "c:\users\username\......." setup directory structure. Like windows 7 and windows 10 has. 
 
 2nd) The DevDateWare.dll file either goes in the c:\windows\system directory or the c:\windows\system32 directory.  
 
-           I've using the c:\windows\system  directory. 
+           I've been using the c:\windows\system  directory. 
            
 3rd) There are 144 different date formats to choose from.
 
@@ -28,7 +28,7 @@ This software will Date Conversions on the fly. Changing one date format to anot
 
 5th) I'm looking for a few developers to pound on the program to surface out some bugs.
 
-6th) Plus, I'm also looking for a some new ideas to help out.
+6th) Plus, I'm also looking for some new ideas to help out, dealing with dates.
 
 7th) I'm looking for feedback, Please...
 
@@ -102,3 +102,4 @@ Here are of the (144)date formats that the software supports......
      141) mmmDDCCYY          142) mmmDDYY               143) mmmDYY           144) mmmDCCYY                        
                                                                                                      
 ===================================
+An email contact point is located/contained with the demo program. 
