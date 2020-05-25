@@ -24,6 +24,9 @@ This software will Date Conversions on the fly. Changing one date format to anot
 
 8th) Within the Demo, study it, play with it, and etc...
 
+The software supports 6 delimitors...
+   1) No delimitor, 2) the dash, 3) the colon, 4) the slash, 5) the period, and 6) the backslash.  
+
 Here are of the (144)date formats that the software supports......
 
        1) MMDDYY                2) D-mmm-YY         3) MM/DD/YY               4) D/mmm/YY            5) YY.MM.DD     
@@ -41,23 +44,23 @@ Here are of the (144)date formats that the software supports......
       31) MM/D/CCYY          32) M-DD-CCYY          33) M/DD/CCYY            34) D-mmm-CCYY          35) D/mmm/CCYY   
                                                                                                      
       36) mmm-D-CCYY         37) mmm/D/CCYY         38) M-D-CCYY             39) M/D/CCYY            40) DmmmCCYY     
-         ");
+           
       41) DD/MM/CCYY          42) DD/M/CCYY         43) D/M/CCYY             44) D/MM/CCYY           45) DD-MM-CCYY   
-         ");
+            
       46) DD-M-CCYY           47) D-M-CCYY          48) D-MM-CCYY            49) MDDCCYY             50) CCYY/M/D     
-         ");
+            
       51) CCYY-M-D            52) CCYY-M-DD          53) CCYY/M/DD           54) CCYY-MM-D            55) CCYY/MM/D    
-         ");
-      56) CCYY/DD/MM          57) CCYY-DD-MM        58) YY-DD-mmm             59) mmm-D-YY            60) mmm/D/YY     
-         ");
-      61) D:mmm:YY            62) MM:DD:YY          63) DD:mmm:CCYY           64) MM:DD:CCYY          65) CCYY:mmm:DD  
-         ");
+            
+      56) CCYY/DD/MM          57) CCYY-DD-MM          58) YY-DD-mmm           59) mmm-D-YY            60) mmm/D/YY     
+            
+      61) D:mmm:YY            62) MM:DD:YY            63) DD:mmm:CCYY         64) MM:DD:CCYY          65) CCYY:mmm:DD  
+            
       66) CCYY:MM:DD          67) DD:mmm:YY          68) mmm:DD:CCYY          69) mmm:DD:YY           70) CCYY:DD:mmm  
-         ");
-      71) MM:D:CCYY           72) M:DD:CCYY         73) D:mmm:CCYY            74) mmm:D:CCYY         75) M:D:CCYY     
-         ");
-      76) CCYY:M:D            77) CCYY:M:DD          78) CCYY:MM:D            79) YY:DD:mmm          80) mmm:D:YY     
-         ");
+            
+      71) MM:D:CCYY           72) M:DD:CCYY           73) D:mmm:CCYY          74) mmm:D:CCYY         75) M:D:CCYY     
+            
+      76) CCYY:M:D            77) CCYY:M:DD           78) CCYY:MM:D           79) YY:DD:mmm          80) mmm:D:YY     
+            
       81) D.mmm.YY            82) MM.DD.YY            83) DD.mmm.CCYY         84) MM.DD.CCYY         85) CCYY.mmm.DD  
                                                                                                      
       86) CCYY.MM.DD          87) DD.mmm.YY           88) mmm.DD.CCYY         89) mmm.DD.YY          90) CCYY.DD.mmm  
