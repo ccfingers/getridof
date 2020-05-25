@@ -37,8 +37,8 @@ This software will Date Conversions on the fly. Changing one date format to anot
 
 An email contact point is located/contained with the demo program. 
 
-The software supports 6 delimitors...
-   1) No delimitor, 2) the dash, 3) the colon, 4) the slash, 5) the period, and 6) the backslash.  
+The software supports six(6) delimiters...
+   1) No delimiter, 2) the dash, 3) the colon, 4) the slash, 5) the period, and 6) the backslash.  
 
 Here are of the (144)date formats that the software supports......
 
