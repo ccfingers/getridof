@@ -103,5 +103,7 @@ Here are of the (144)date formats that the software supports......
      137) DD\\MM\\CCYY       138) DD\\M\\CCYY           139) D\\M\\CCYY       140) D\\MM\\CCYY               
                                                                                                      
      141) mmmDDCCYY          142) mmmDDYY               143) mmmDYY           144) mmmDCCYY                        
-                                                                                                     
+                             
+     145) YY:MM:DD           146) YY/MM/DD              147) YY-MM-DD         148) YY\MM\DD                              
+                             
 ===================================
