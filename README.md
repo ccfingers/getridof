@@ -3,12 +3,14 @@ The Developer's Dateware Demo
 
      We can do date conversions on the fly... 
 
-  Developer's Dateware Demo consists of Four(4) files:
+  Developer's Dateware Demo consists of ive files and one directory. Copy all over.
   
+     0) Plus the directory:   "Application files".
      1) DevDateWare.Dll
      2) Setup.Exe    
      3) autorun.inf   
      4) Developer's Dateware.application
+     5) readme1.txt file.
           
     So copy them down and run the 'setup.exe' file.
 
@@ -104,6 +106,7 @@ Here are of the (144)date formats that the software supports......
                                                                                                      
      141) mmmDDCCYY          142) mmmDDYY               143) mmmDYY           144) mmmDCCYY                        
                              
-     145) YY:MM:DD           146) YY/MM/DD              147) YY-MM-DD         148) YY\MM\DD                              
+     145) YY:MM:DD           146) YY/MM/DD              147) YY-MM-DD         148) YY\MM\DD                         
                              
-===================================
+=================================== added four more date formats: ID 145 TO ID 148.
+     The End... 
